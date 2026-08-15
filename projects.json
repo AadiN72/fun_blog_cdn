@@ -1,0 +1,11 @@
+[
+  {
+    "title": "This Website!",
+    "description": "What you're reading right now! Inspired heavily by hefymouse (https://heftymouse.me/), and built with Vite, Tailwind CSS and Firebase.",
+    "start": "2023-07-01",
+    "end": "Present",
+    "links": {
+      "source": "https://github.com/AadiN72/personal_blog"
+    }
+  }
+]

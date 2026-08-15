@@ -1,0 +1,102 @@
+{
+  "techIUse": {
+    "title": "Tech I Use",
+    "sections": [
+      {
+        "heading": "Computers",
+        "items": [
+          {
+            "name": "ROG Strix G16 2023",
+            "description": "Peak laptop. Trash battery life. Motherboard got replaced twice but ASUS replaced it for me. Plays nearly every triple A game with DLSS carrying. Overall good."
+          }
+        ]
+      },
+      {
+        "heading": "Phones",
+        "items": [
+          {
+            "name": "OnePlus 15R",
+            "description": "Great phone. Decent cameras. Decent battery life. Snappy enough for chill games like Asphalt. Not that heavy. Decent one-hand use."
+          }
+        ]
+      },
+      {
+        "heading": "Audio",
+        "items": [
+          {
+            "name": "Skullcandy Dime 3",
+            "description": "Great headphones, good battery life, nice audio. Feels better than my old Dimes. They don't hurt my ears."
+          }
+        ]
+      },
+      {
+        "heading": "Developer",
+        "description": "My developer choices are pretty boring so I'll just mention names here. You probably know all of these already.",
+        "list": [
+          "Visual Studio Code for everything — it works and is perfect",
+          "Vite, Tailwind for frontend web",
+          "Cloudflare Pages/Workers, Vercel, Firebase hosting and Azure (on my part-time work)",
+          "Firebase",
+          "Node and FastAPI for backend"
+        ]
+      }
+    ]
+  },
+  "appDefaults": {
+    "title": "App Defaults",
+    "items": [
+      "📨 Gmail",
+      "📮 Mail Server — Gmail, Outlook",
+      "✅ To-Do — Google Keep and Google Tasks",
+      "📷 Photo Shooting — OnePlus 15R Camera",
+      "🟦 Photo Management — Google Photos",
+      "📆 Calendar — Google Calendar",
+      "📁 Cloud File Storage — OneDrive and Google Drive",
+      "🙍🏻‍♂️ Contacts — Google Contacts",
+      "🌐 Browser — Chrome and Firefox",
+      "💬 Chat — Discord, WhatsApp",
+      "🔠 Font — Google Sans",
+      "📝 Plaintext Editing — VS Code",
+      "📜 Word Processing — LibreOffice (no microslop)",
+      "📈 Spreadsheets — LibreOffice (no microslop)",
+      "📊 Presentations — LibreOffice (no microslop)",
+      "🎵 Music — YouTube Music",
+      "🔐 Password Management — Keep and my brain"
+    ]
+  },
+  "essentialMedia": {
+    "title": "Essential Media",
+    "items": [
+      {
+        "title": "what is the i really doing in Schrödinger's equation?",
+        "url": "https://www.youtube.com/watch?v=uVKMY-WTrVo",
+        "path": "Welch Labs — What is the i really doing in Schrödinger's equation?",
+        "description": "This is the kind of thing that makes you feel like the equation is suddenly telling the truth instead of just being a symbol soup."
+      },
+      {
+        "title": "the moment we stopped understanding AI [AlexNet]",
+        "url": "https://www.youtube.com/watch?v=UZDiGooFs54",
+        "path": "AlexNet — The moment we stopped understanding AI",
+        "description": "A perfect mix of historical intuition and technical clarity. It made deep learning feel less like magic and more like a real turning point."
+      },
+      {
+        "title": "how DeepSeek rewrote the transformer [MLA]",
+        "url": "https://www.youtube.com/watch?v=0VLAoVGf_74",
+        "path": "DeepSeek — How DeepSeek rewrote the Transformer [MLA]",
+        "description": "The best way I’ve seen to understand why transformer internals are changing and what the architecture is really optimizing for."
+      },
+      {
+        "title": "the most beautiful equation in math, explained visually [Euler's Formula]",
+        "url": "https://www.youtube.com/watch?v=f8CXG7dS-D0",
+        "path": "3Blue1Brown — The most beautiful equation in math, explained visually",
+        "description": "This is the kind of explanation that makes you feel like mathematics has a heartbeat."
+      },
+      {
+        "title": "3Blue1Brown — one of the best explanations I know",
+        "url": "https://www.youtube.com/watch?v=ldxFjLJ3rVY",
+        "path": "3Blue1Brown — The essence of the visual explanation",
+        "description": "The exact kind of video that makes you feel like you’ve stumbled into a better version of intuition."
+      }
+    ]
+  }
+}
