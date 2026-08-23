@@ -1,0 +1,16 @@
+{
+  "name": "fun-blog-cdn",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "manager": "./scripts/manager.js"
+  },
+  "scripts": {
+    "manager": "node scripts/manager.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "octokit": "^4.1.2"
+  }
+}
