@@ -17,8 +17,8 @@ manager
 
 Choose `1` to generate a draft or `2` to publish an existing draft. Publishing uses the GitHub settings in `.env`; keep that file local and rotate any token that has been committed.
 
-The shared publisher is included at `scripts/shared`. Install its dependencies
-after cloning with:
+All CLI scripts are included in the shared submodule at `scripts/shared`.
+Install its dependencies after cloning with:
 
 ```powershell
 cd scripts/shared
